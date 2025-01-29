@@ -7,7 +7,7 @@ st.title("Researcher Profile Page")
 # Collect basic information
 name = "Louise Fourie"
 field = "Physiology - Cancer Science"
-institution = "University of Stellenbosch"
+institution = "US"
 
 # Display basic profile information
 st.header("Researcher Overview")
